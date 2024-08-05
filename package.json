@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "react-svg": "^16.1.34"
+  },
+  "devDependencies": {
+    "webpack-bundle-analyzer": "^4.10.2"
   }
 }
